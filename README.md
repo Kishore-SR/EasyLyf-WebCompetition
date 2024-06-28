@@ -1,4 +1,4 @@
-# Easy Lyf - IEEE Competition
+# Easy Lyf
 
 ## About Competition
 This project was developed as part of IEEE competition 2024, where the challenge was to design and build a visually appealing **Smart Home Control Center** within a 3-hour timeframe. Our team, consisting of myself and <a href="https://github.com/Hitesh-PSG" target="_blank">Hitesh P</a>, participated in this competition. The first hour was to design the prototype on Figma, and the following 2 hours were dedicated to building it.
